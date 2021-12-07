@@ -123,3 +123,5 @@ C:\repos\CoffeeApp\obj\Debug\CoffeeApp.csproj.CoreCompileInputs.cache
 C:\repos\CoffeeApp\obj\Debug\CoffeeApp.csproj.CopyComplete
 C:\repos\CoffeeApp\obj\Debug\CoffeeApp.dll
 C:\repos\CoffeeApp\obj\Debug\CoffeeApp.pdb
+C:\repos\CoffeeApp\obj\Debug\CoffeeApp.Migrations.InitialDatabaseCreate.resources
+C:\repos\CoffeeApp\obj\Debug\CoffeeApp.csproj.GenerateResource.cache

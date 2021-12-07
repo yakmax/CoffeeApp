@@ -29,5 +29,7 @@ namespace CoffeeApp.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<CoffeeApp.Models.Review> Reviews { get; set; }
     }
 }
