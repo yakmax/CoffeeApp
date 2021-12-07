@@ -1,0 +1,179 @@
+﻿body {
+    font-family: "Arial Narrow";
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+    color: #6f4d43;
+}
+
+p {
+    line-height: 2;
+}
+
+table {
+    border: 1px solid #e0e0e0;
+    border-spacing: 0px;
+    width: 100%;
+}
+
+td {
+    /* border: solid 1px #ccc; */
+    border: 1px solid #e0e0e0;
+    padding: 10px;
+}
+
+th {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 900;
+    background-color: #f1f1f1;
+}
+
+.bg1 {
+    padding-top: 20px;
+    background-color: #c3c3c3;
+}
+
+.bg2 {
+    padding-top: 20px;
+    background-color: #545252;
+}
+
+.bg3 {
+    padding-top: 20px;
+    background-color: #e8e8e8;
+}
+
+.bg2 p {
+    color: #d4cecb;
+}
+
+.bg2 h2 {
+    color: #b2a698;
+}
+
+
+/*
+.tbl_header {
+    background: #f1f1f1;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+*/
+
+#menu {
+    padding: 10px 0px;
+    background-color: #4b3832;
+    list-style-type: none;
+}
+
+ul {
+    margin: 0px;
+}
+
+li {
+    display: inline-block;
+}
+
+li a {
+    color: #bbaaa1;
+    margin: 14px 16px;
+    text-decoration: none;
+    /*Если передать свойству margin два значения, то первое будет задавать отступ одновременно сверху и снизу, а второе - одновременно и справа, и слева. */
+}
+
+header {
+    margin: 0px;
+    padding: 0px;
+}
+
+main {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+
+#presentation {
+    background-image: url("/Content/images/index-header-bg.jpg");
+    padding: 0px;
+    margin: 0px;
+}
+
+.about-us {
+    background-image: url("/Content/images/about-us.jpg");
+    padding: 0px;
+    margin: 0px;
+    height: 400px;
+}
+
+.coffee {
+    background-image: url("/Content/images/coffee.jpg");
+    padding: 0px;
+    margin: 0px;
+    height: 400px;
+}
+
+.tea {
+    background-image: url("/Content/images/tea.jpg");
+    padding: 0px;
+    margin: 0px;
+    height: 400px;
+}
+
+#presentation p {
+    padding: 200px 0px;
+    margin: 0px;
+    text-align: center;
+    color: #fff7ce;
+    line-height: 2;
+    font-weight: 300;
+    /*font: normal 10px;*/
+    font-family: fantasy;
+    font-size: xx-large;
+}
+
+footer {
+    padding: 25px 0px;
+    background-color: #423e3e;
+    color: #827164;
+    text-align: center;
+}
+
+.bg_blue {
+    background-color: #66c6d0;
+    padding: 50px;
+    margin: 0px;
+    /*padding: 0px;*/
+    /*width: 100%;*/
+}
+
+.white_wrapper {
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 0px auto;
+    /*внешний отступ: margin: 0px auto;*/
+    border: 1px solid black;
+    width: 70%;
+}
+
+img {
+    width: 100%;
+}
+
+.card {
+    width: 13rem;
+}
+
+.pt-20 {
+    padding-top: 20px;
+}
+
+.pb-20 {
+    padding-bottom: 20px;
+}
+
+
+/* Якимов М.А. 89082409090 */

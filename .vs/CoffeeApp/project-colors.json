@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "00d94864-fa58-4651-aae2-cb9303273619": {
+      "ProjectGuid": "00d94864-fa58-4651-aae2-cb9303273619",
+      "DisplayName": "CoffeeApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
